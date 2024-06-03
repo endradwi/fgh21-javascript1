@@ -1,5 +1,5 @@
 const biodata = { 
- nama : "Endra Dwi Jamaludin",
+ name : "Endra Dwi Jamaludin",
  age : 25,
  hobby : ["Travelling", "Games", "Badminton"],
  isMarried : false,
@@ -35,3 +35,4 @@ const biodata = {
 }
 
 console.log(biodata)
+//console.log(biodata.schoolList[1].name)
